@@ -1,34 +1,4 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Marketplace
-Explore
  
-@picklittle 
-Branch master was renamed to main.
-mdn
-/
-learning-area
-Public
-Code
-Issues
-11
-Pull requests
-18
-Actions
-Projects
-Security
-More
-learning-area/javascript/introduction-to-js-1/troubleshooting/number-game-errors.html
-@wbamberg
-wbamberg JS Learn Intro: miscellaneous updates, part 1
-Latest commit 30d56fe on 3 Dec 2021
- History
- 2 contributors
-@chrisdavidmills@wbamberg
-115 lines (95 sloc)  2.96 KB
-   
 <!DOCTYPE html>
 <html>
   <head>
@@ -144,15 +114,3 @@ Latest commit 30d56fe on 3 Dec 2021
   }
 </script>
 </html>
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
